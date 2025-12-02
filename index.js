@@ -1,3 +1,6 @@
 let todos = ['first todo', 'second todo', 'third todo'];
-          return markAsDone(todos);
-        });
+          function markAsDone(todos) {
+            return         
+          };
+
+document.getElementById('result').innerHTML = markAsDone(todos);
